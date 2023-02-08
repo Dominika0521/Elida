@@ -1,0 +1,104 @@
+body {
+
+    background-color :#acbec4;
+    margin: 0;
+    text-align: center;
+}
+
+
+h1 {
+    color: #6f8f8f;
+    margin: 0;
+    font-family: 'Satisfy', cursive;
+    font-size: 100px;
+}
+
+h2 {
+    color: black;
+    margin: 0;
+    font-family: 'Itim', cursive;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Satisfy', cursive;
+    width: 30%;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 50px;
+    line-height: 1.2;
+}
+
+
+
+hr {
+    position: relative;
+    top: 2%;
+    border-style: dotted none none none;
+    border-width: 8px;
+    width: 10%;
+    border-color: #82959b;
+
+
+}
+.intro {
+
+    position: relative;
+    height: 1000px;
+    width: auto;
+    margin:0;
+
+}
+
+.water_bubbles {
+    position: absolute;
+    right: 0;
+    
+
+}
+
+.fairy {
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+
+
+.residents {
+    height: 1500px;
+    background-color: #94acb4;
+    position: relative;
+    
+    
+}
+
+.starfish {
+    position: absolute;
+    top: 20%;
+    right: 10%;
+    
+}
+
+.octopus {
+
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+}
+
+.magical_animal {
+    height: 1500px;
+    position: relative;
+}
+
+.pink_animal {
+    position: absolute;
+    top: 20%;
+    right: 40%;
+}
+
+.axolotl_text { 
+    margin-top: 30%;
+
+}
